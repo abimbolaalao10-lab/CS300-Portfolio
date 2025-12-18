@@ -1,31 +1,44 @@
 # CS300-Portfolio
 Overview
 
-This repository contains selected artifacts from my CS 300 coursework, focusing on the analysis and implementation of data structures and algorithms. The included materials demonstrate my ability to evaluate algorithmic efficiency and develop working software solutions using appropriate data structures.
+This repository contains selected artifacts from my CS 300: Data Structures and Algorithms coursework. The materials included here demonstrate my ability to analyze algorithm efficiency, evaluate data structures, and develop working software solutions using appropriate data structures and algorithms. These projects reflect both my technical growth and my ability to apply structured problem-solving techniques to real-world scenarios.
+
+Included Artifacts
+Project One: Data Structure Analysis
+
+File: CS 300 Project One Submission.docx
+
+Description:
+This document contains a detailed analysis of runtime and memory usage for three data structures: vector, hash table, and binary search tree. It includes Big-O analysis, advantages and disadvantages of each structure, and a final recommendation based on performance and project requirements.
+
+Project Two: Advising Assistance Program
+
+File: ProjectTwo.cpp
+
+Description:
+A fully functional C++ command-line application that loads course data, stores it in a binary search tree, prints an alphanumerically sorted list of courses, and allows advisors to retrieve detailed course information including prerequisites.
 
 Reflection
-
 What problem was I solving in the projects for this course?
-The primary problem addressed in this course was designing and implementing an advising assistance system for ABC University that could efficiently store, organize, and retrieve course information. The system needed to support loading course data from a file, sorting courses alphanumerically, and retrieving detailed course information such as titles and prerequisites. The challenge was determining which data structures were best suited to meet these functional and performance requirements.
+
+The primary problem was designing and implementing an advising assistance system for ABC University that could efficiently manage and retrieve course information. The system needed to support loading data from a file, sorting courses alphanumerically, and displaying course details along with prerequisites.
 
 How did I approach the problem, and why are data structures important?
-I approached the problem by first designing pseudocode and analyzing multiple data structures, including vectors, hash tables, and binary search trees. Understanding data structures was critical because each structure has different performance characteristics that directly affect runtime, memory usage, and scalability. By evaluating Big O complexity and operational trade-offs, I was able to select the most appropriate structure for the problem before writing any production code.
 
-How did I overcome roadblocks during the projects?
-Some challenges included debugging logic errors, managing dynamic memory, and ensuring correct data parsing from files. I overcame these issues by breaking problems into smaller steps, using incremental testing, and revisiting my pseudocode when implementation issues arose. Reviewing algorithm behavior and carefully tracing program execution helped me resolve these challenges effectively.
+I approached the problem by first developing pseudocode and algorithm designs before writing code. I analyzed multiple data structures—vectors, hash tables, and binary search trees—to understand their performance trade-offs. Data structures are important because they directly impact runtime efficiency, memory usage, and scalability, especially when working with large datasets.
 
-How has this project expanded my approach to designing software?
-This project reinforced the importance of planning before coding. Writing detailed pseudocode, analyzing runtime complexity, and selecting the correct data structure upfront resulted in cleaner and more efficient implementations. I now approach software design with greater emphasis on scalability, performance, and long-term maintainability rather than focusing only on functionality.
+How did I overcome roadblocks encountered during the course?
 
-How has this work influenced the way I write maintainable and adaptable code?
-My work in CS 300 improved how I structure programs using modular design, clear naming conventions, and meaningful comments. I now write code that is easier to read, test, and modify, with clear separation of responsibilities and reusable components. These practices make my programs more adaptable to future changes and easier for others to understand.
+Some challenges included managing file input correctly, debugging logic errors, and handling dynamic memory safely. I overcame these challenges by breaking problems into smaller steps, testing frequently, and revisiting my pseudocode when implementation issues occurred.
 
-Repository Contents
+How has this project expanded my approach to software design?
 
-Project One: Runtime and memory analysis of vector, hash table, and binary search tree data structures
+This project reinforced the importance of planning before coding. Writing pseudocode, performing runtime analysis, and selecting the correct data structure upfront led to cleaner, more efficient implementations. I now approach software design with a stronger focus on performance, maintainability, and scalability.
 
-Project Two: Fully functional C++ advising assistance program that sorts and prints course data alphanumerically
+How has this work influenced how I write maintainable and adaptable programs?
+
+My work in CS 300 improved how I write readable and maintainable code by emphasizing modular design, clear naming conventions, and meaningful inline comments. These practices make my programs easier to understand, modify, and extend over time.
 
 Conclusion
 
-The work in this repository demonstrates my growing proficiency in algorithmic thinking, data structure evaluation, and professional software development practices. These skills are foundational to building efficient, scalable, and maintainable software systems.
+The artifacts in this repository demonstrate my ability to analyze complex problems, select appropriate data structures, and implement efficient algorithms. These skills form a strong foundation for future coursework and professional software development.
